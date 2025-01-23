@@ -1,0 +1,22 @@
+#wrapper {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#page-title {
+    text-align: center;
+}
+
+.publication {
+    border: solid lightgray;
+    border-width: 3px 0px 0px 0px;
+}
+
+.book-title {
+    margin-bottom: 3px;
+    text-transform: uppercase;
+}
+
+.book-author {
+    margin-top: 0px;
+}

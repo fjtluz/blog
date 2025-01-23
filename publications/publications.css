@@ -1,0 +1,15 @@
+.publication {
+    border: solid lightgrey;
+    border-width: 1px 0px;
+    margin-bottom: 10px;
+    font-family: "Cutive Mono", serif;
+    font-weight: bold;
+}
+
+.sign-off {
+    text-align: right;
+}
+
+.review-paragraph {
+    font-size: 12pt;
+}
