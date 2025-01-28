@@ -5,6 +5,11 @@
 
 #page-title {
     text-align: center;
+    font-family: Gloock, serif;
+}
+
+#page-title, .latest {
+    font-family: Gloock, serif;
 }
 
 .publication {
