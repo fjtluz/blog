@@ -1,6 +1,10 @@
+body {
+    display: grid;
+    grid-template: 1fr / 1fr 2fr 1fr;
+}
+
 #wrapper {
-    width: 50%;
-    margin-left: 25%;
+    grid-column-start: 2 ;
 }
 
 #page-title {
@@ -46,6 +50,11 @@
 
 .badge.book-badge {
     background-color: cadetblue;
+    color: whitesmoke;
+}
+
+.badge.manga-badge {
+    background-color: orangered;
     color: whitesmoke;
 }
 
